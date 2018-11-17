@@ -9,3 +9,8 @@
 - zookeeper:
 - kafka:
 - matomo:
+
+
+### How to run ?
+
+- Comment out the unwanted service and run ```docker-compose up```
